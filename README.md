@@ -29,5 +29,3 @@ python main2.py
 ```
 
 ## Author
-
-Utkarsh Awasthi
